@@ -15,31 +15,20 @@ The proposed solution involves utilizing bioinformatics analysis to screen commo
 - Screening of common biomarkers and drug targets across different types of lung cancer
 - Construction of a versatile pipeline for easy integration into Python packages
 
-## Dependencies
-- Python (version XYZ)
-- Bioinformatics libraries (e.g., Biopython)
-- Statistical analysis tools (e.g., R)
-
 ## Usage
 1. Clone the repository to your local machine.
 2. Install the required dependencies.
+    - **Cyctoscape Software:**
+        - Install Cyctoscape software.
+    - **Additional Plugins for Cyctoscape:**
+        - Install CytoHubba, StringApp, and yFiles Layout Algorithms plugins for Cyctoscape.
+        - Setup each plugin according to the respective instructions.
+        - Close the software after installation and setup.
 3. Run the provided scripts to perform bioinformatics analysis on lung cancer data.
+    - Ensure all tabs are closed before running the code to prevent potential automation failures.
 4. Refer to the documentation for detailed usage instructions and examples.
 
-## Contributing
-Contributions to this project are welcome. Please refer to the contribution guidelines for more information.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Authors
-- [Author 1 Name](https://github.com/author1)
-- [Author 2 Name](https://github.com/author2)
-
-## Acknowledgements
-We would like to thank [Organization/Institution Name] for their support and resources provided for this project.
-
 ## Contact
-For inquiries, suggestions, or issues, please contact [Project Team Name](mailto:team@example.com).
+For inquiries, suggestions, or issues, please contact [Aashiq Shareef](mailto:aashiqshareefas@gmail.com).
 
 ---
